@@ -1,4 +1,4 @@
- Arquvivoa relacionados a instalação automática e configuração de sistemas operacionais Windows em ambientes virtuais, especialmente quando utilizados com o Oracle VirtualBox.
+ Arquivos relacionados a instalação automática e configuração de sistemas operacionais Windows em ambientes virtuais, especialmente quando utilizados com o Oracle VirtualBox.
 
 win_nt5_unattended.sif: Este é um arquivo de resposta usado para automatizar a instalação do Windows NT 5 (Windows 2000/XP). Ele contém configurações que permitem a instalação sem a necessidade de intervenção do usuário, como configurações de rede, nome do computador, e informações de licença.
 
